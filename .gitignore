@@ -1,0 +1,29 @@
+# Generated output and local runtime data
+__pycache__/
+*.py[cod]
+build/
+dist/
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+*.jar
+*.exe
+*.dll
+*.zip
+*.bak
+.env
+.env.*
+!.env.example
+.winsw-manager/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+# Historical scratch files and unused two-executable launcher
+/query
+/需求.txt
+/launcher.py
